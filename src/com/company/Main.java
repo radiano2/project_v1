@@ -166,7 +166,7 @@ public class Main {
 //            }
 //        });
         //System.out.println(Arrays.toString(array));
-
+        int[] dog = {3 , 2};
     }
 }
 
