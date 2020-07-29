@@ -167,6 +167,7 @@ public class Main {
 //        });
         //System.out.println(Arrays.toString(array));
         int[] dog = {3 , 2};
+        int[] cat = {3 , 2};
     }
 }
 
